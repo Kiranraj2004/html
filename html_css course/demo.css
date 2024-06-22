@@ -1,0 +1,18 @@
+
+    .uber{
+        background-color: black;
+        color: aliceblue;
+        height: 35px;
+        width: 110px;
+        border: none;
+    }
+    .signs{
+        height: 30px;
+        width: 80px;
+        background-color: rgb(46, 164, 79);
+        color: whitesmoke;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        margin-left: 10px;
+    }
