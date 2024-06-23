@@ -33,3 +33,26 @@
         border-radius: 5px;
         margin-left: 10px;
     }
+    .boot1:hover{
+        background-color: rgb(106, 113, 125);
+        color: white;
+
+    }
+    .boot1{
+        transition: background-color 0.15s , color 0.15s;
+    }
+    .boot:hover{
+        
+        background-color: rgb(93, 67, 118);
+    }
+
+.link:hover{
+    background-color:rgb(8, 61, 114) ;
+
+}
+.link1:hover{
+    background-color:rgb(147, 209, 234);
+    border-width: 2px;
+    box-shadow: 1px 1px 10px blue;
+}
+
