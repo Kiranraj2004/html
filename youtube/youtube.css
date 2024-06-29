@@ -1,0 +1,23 @@
+.thumbnails{
+    width: 300px;
+    
+
+}
+.search{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+   
+}
+.videodetails{
+    display: block;
+    display: inline-block;
+
+    font-size: 15px;
+}
+.v1{
+    display: block;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+}
