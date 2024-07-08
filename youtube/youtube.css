@@ -1,23 +1,32 @@
-.thumbnails{
-    width: 300px;
+.section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     
+}
+.video{
+ display: inline-block;
+ margin: 20px;
 
 }
-.search{
-    font-size: 20px;
-    margin-top: 0px;
-    margin-bottom: 30px;
+.thum
+{
+    display: block;
+}
+.pro{
+    display:inline-block;
    
 }
-.videodetails{
-    display: block;
-    display: inline-block;
+.con{
+   display: grid;
+   grid-template-columns: 50px 300px;
 
-    font-size: 15px;
 }
-.v1{
-    display: block;
-    display: inline-block;
-    font-weight: bold;
-    font-size: 15px;
+.thumbnails{
+    width: 375px;
+    height: 273px; 
+    border-radius: 10px;
+    cursor: pointer;
+}
+.info{
+    width: 330px;
 }
