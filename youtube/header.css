@@ -1,0 +1,40 @@
+.head{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    
+}
+.textbox{
+    width: 350px;
+    height: 30px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+  margin-left: 130px;
+  margin-top: 10px;
+    padding-left: 40px;
+}
+.leftsection{
+    display: inline-block;
+    width: 150px;
+    background-color: skyblue;
+    margin-right: 90px;
+
+}
+.centersection{
+    display: inline-block;
+    flex: 1;
+    
+    background-color: pink;
+    margin: 0px;
+
+}
+.rightsection{
+    display: inline-block;
+    width: 200px;
+    background-color: skyblue;
+    margin-left: 50px;
+}
