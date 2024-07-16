@@ -1,10 +1,12 @@
 .section{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+  
     
 }
 .video{
  display: inline-block;
+ flex:1;
  
 
 }
